@@ -1,0 +1,12 @@
+Card Num:1111-1111-1111-1111
+Pin Num:1234
+Acc Holder:Alex
+Acc Num:68759852
+Balance:30.00
+
+Card Num:2222-2222-2222-2222
+Pin Num:1111
+Acc Holder:Abu
+Acc Num:65213642
+Balance:624.00
+

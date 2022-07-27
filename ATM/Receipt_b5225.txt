@@ -1,0 +1,18 @@
+***************************************
+       Unicorn Bank ATM's receipt
+***************************************
+  Date:11/07/2020 
+  Time:14:35:10
+
+  Card Number
+  xxxx-xxxx-xxxx-1111
+
+  TRANSACTION #b5225
+  WITHDRAWAL
+  CASH: RM 7.00
+  FROM ACC NO: 68759852
+  Available balance: RM23.00
+
+
+ Thank you for using Unicorn Bank ATM!
+***************************************

@@ -1,0 +1,17 @@
+***************************************
+       Unicorn Bank ATM's receipt
+***************************************
+  Date:07/07/2020 
+  Time:21:58:29
+
+  Card Number
+  xxxx-xxxx-xxxx-xxxx-1111
+
+  TRANSACTION #c9700
+  DEPOSIT
+  CASH: RM500.0
+  Available balance: RM550.00
+
+
+ Thank you for using Unicorn Bank ATM!
+***************************************
